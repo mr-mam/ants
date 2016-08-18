@@ -49,6 +49,6 @@ ________________________________________________________________________________
 #see this git:  https://github.com/BH-YAGHI/tg.git
 
 ---------------------------------------------------------------------------------
-### channel : https://telegram.me/Nod32team
+### channel : https://telegram.me/filmony
 
-### developer : https://telegram.me/Behroozyaghi
+### developer : https://telegram.me/moarmo
